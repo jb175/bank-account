@@ -1,0 +1,6 @@
+/.idea/
+*.iml
+.env
+WebAPI/.vs/
+WebAPI/bin/
+WebAPI/obj/
